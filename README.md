@@ -1,4 +1,14 @@
-### Hi there 👋
+# Buenas! Soy Dani, 
+
+Desarrollador Absis en ViewNext desde Mataró, empezando con React y en constante formación. 
+
+## Proyectos personales:
+
+## Puedes encontrarme en:
+
+- Web Personal [dlosada.com](https://www.dlosada.com) En construcción
+- [Linkedin](https://www.linkedin.com/in/danilosada/)
+- [Instagram](https://www.instagram.com/docpatch/)
 
 <!--
 **LosadaDani/LosadaDani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
