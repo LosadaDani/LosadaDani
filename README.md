@@ -1,6 +1,7 @@
 # Buenas! Soy Dani, 
 
 Desarrollador Absis (Java y SpringBoot) en ViewNext desde Mataró.
+
 Actualmente en formación con React y alguna que otra tecnología. 
 
 ## Proyectos personales:
